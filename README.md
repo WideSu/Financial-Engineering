@@ -4,3 +4,4 @@ Projects for financial engineering
     - 1. [Government Data](https://github.com/WideSu/Financial-Engineering/blob/main/M1_1_GovernmentData.ipynb)
     - 2. [US Bond Yield Curve](https://github.com/WideSu/Financial-Engineering/blob/main/M1_2_USBondYieldCurve.ipynb)
     - 3. [Government Bond Yield Bivariate Analysis And Yield Curve Analysis](https://github.com/WideSu/Financial-Engineering/blob/main/M1_3_GovernmentBondYieldBivariateAnalysis.ipynb)
+- [LSTM Trading](https://github.com/WideSu/Financial-Engineering/blob/main/LSTM_CodeTrading/LSTM_CodeTrading_RUI.ipynb)
